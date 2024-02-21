@@ -24,7 +24,7 @@ protocols:
 publish:
   provider: github
   owner: jason-czar
-  repo: chats
+  repo: telegram-tt
   releaseType: draft
 win:
   target: nsis
