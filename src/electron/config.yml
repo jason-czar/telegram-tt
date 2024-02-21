@@ -23,8 +23,8 @@ protocols:
       - tg
 publish:
   provider: github
-  owner: Ajaxy
-  repo: telegram-tt
+  owner: jason-czar
+  repo: chats
   releaseType: draft
 win:
   target: nsis
